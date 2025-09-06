@@ -1,0 +1,18 @@
+version: "3.9"
+
+services:
+  jupyter:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./:/home/jovyan/work
+    environment:
+      - JUPYTER_ENABLE_LAB=yes  # Enable JupyterLab interface
+      - NB_UID=1000             # Match host user ID (adjust if needed)
+      - NB_GID=1000             # Match host group ID (adjust if needed)
+      - GRANT_SUDO=yes          # Allow sudo for jovyan user (optional)
+    user: jovyan
+    command: start-notebook.sh --NotebookApp.token='' --NotebookApp.ip='0.0.0.0'

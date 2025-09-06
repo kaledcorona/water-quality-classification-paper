@@ -1,0 +1,193 @@
+CLAVE PARÁMETRO,NOMBRE PARÁMETRO,UNIDAD DE MEDIDA
+ALC_FEN,Alcalinidad a la Fenoftaleína,mg CaCO3/L
+ALC_TOT,Alcalinidad Total,mg CaCO3/L
+CO3,Carbonatos,mg CaCO3/L
+HCO3,Bicarbonatos,mg CaCO3/L
+OH,Hidroxilos,mg CaCO3/L
+CLOROF_A,Clorofila A,mg/m3
+COLI_FEC,Coliformes Fecales,NMP/100 mL
+COLI_TOT,Coliformes Totales,NMP/100 mL
+E_COLI,Escherichia coli,NMP/100 mL
+COT,Carbono Orgánico Total,mg/L
+COT_SOL,Carbono Orgánico Soluble,mg/L
+DBO_SOL,Demanda Bioquímica de Oxígeno Soluble,mg/L
+DBO_TOT,Demanda Bioquímica de Oxígeno Total,mg/L
+DQO_SOL,Demanda Química de Oxígeno Soluble,mg/L
+DQO_TOT,Demanda Química de Oxígeno Total,mg/L
+N_NH3,Nitrógeno Amoniacal,mg/L
+N_NO2,Nitrógeno de Nitritos,mg/L
+N_NO3,Nitrógeno de Nitratos,mg/L
+N_ORG,Nitrógeno Orgánico,mg/L
+N_TOT,Nitrógeno Total (Cálculo),mg/L
+N_TOTK,Nitrógeno Kjeldahl,mg/L
+TOX_D_48_UT,"Toxicidad Daphnia magna, 48 h",UT
+TOX_D_48_SUP_UT,"Toxicidad Daphnia magna, Superficial, 48 h",UT
+TOX_D_48_FON_UT,"Toxicidad Daphnia magna, Fondo, 48 h",UT
+TOX_FIS_SUP_15_UT,"Toxicidad Vibrio fischeri Superficial, 15min",UT
+TOX_FIS_SUP_30_UT,"Toxicidad Vibrio fischeri Superficial, 30min",UT
+TOX_FIS_SUP_5_UT,"Toxicidad Vibrio fischeri Superficial, 5min",UT
+TOX_FIS_FON_15_UT,"Toxicidad Vibrio fischeri Fondo, 15min",UT
+TOX_FIS_FON_30_UT,"Toxicidad Vibrio fischeri Fondo, 30min",UT
+TOX_FIS_FON_5_UT,"Toxicidad Vibrio fischeri Fondo, 5min",UT
+TOX_V_15_UT,Toxicidad Vibrio fischeri 15min UT,UT
+TOX_V_30_UT,"Toxicidad Vibrio fischeri, 30min",UT
+TOX_V_5_UT,Toxicidad Vibrio fischeri 5min UT,UT
+P_TOT,Fósforo Total,mg/L
+PO4_TOT,Fosfatos Totales (a partir de P total),mg/L
+ORTO_PO4,Fósforo Reactivo total (o-fosfatos),mg/l
+COLOR_VER,Color Verdadero,U Pt/Co
+TRANSPARENCIA,Transparencia disco de Secchi,m
+ABS_UV,Absorción UV,U Abs/cm
+SDT,Sólidos Disueltos Totales (Cálculo),mg/L
+CONDUC_CAMPO,Conductividad eléctrica,µS/cm
+CONDUC_CAMPO_SUP,Conductividad eléctrica superficie,µS/cm
+CONDUC_CAMPO_MED,Conductividad eléctrica media,µS/cm
+CONDUC_CAMPO_FON,Conductividad eléctrica fondo,µS/cm
+pH_CAMPO,Potencial de Hidrógeno,UpH
+pH_CAMPO_SUP,Potencial de Hidrógeno superficie,UpH
+pH_CAMPO_MED,Potencial de Hidrógeno media,UpH
+pH_CAMPO_FON,Potencial de Hidrógeno fondo,UpH
+SALINIDAD_SUP,Salinidad superficie,%o
+OD_%,Oxígeno Disuelto_%,% Saturación
+OD_mg/L,Oxígeno Disuelto,mg/L
+OD_%_SUP,Oxígeno Disuelto superficie_%,% Saturación
+OD_mg/L_SUP,Oxígeno Disuelto superficie,mg/L
+OD_%_MED,Oxígeno Disuelto media_%,% Saturación
+OD_mg/L_MED,Oxígeno Disuelto media,mg/L
+OD_%_FON,Oxígeno Disuelto fondo_%,% Saturación
+OD_mg/L_FON,Oxígeno Disuelto fondo,mg/L
+"1,1,1,2_TTCETA","1,1,1,2-Tetracloroetano",mg/L
+"1,1,2,2_TETRACLETAN","1,1,2,2-Tetracloroetano",mg/L
+"1,1,2_TCETA","1,1,2-Tricloroetano",mg/L
+"1,1_DICLETILEN","1,1-Dicloroetileno",mg/L
+"1,2,4_TRICLBENCEN","1,2,4-Triclorobenceno",mg/L
+"1,2_DIBR_3_CLPROPAN","1,2-Dibromo-3-Cloropropano (DBCP)",mg/L
+"1,2_DICLETAN","1,2-Dicloroetano",mg/L
+"1,2_DICLPROPAN","1,2-Dicloropropano",mg/L
+2_CEVE,2-Cloroetilvinil Éter,mg/L
+ACRILONITRILO,Acrilonitrilo,mg/L
+ACROLEINA,Acroleina,mg/L
+AL_TOT,Aluminio Total,mg/L
+BA_TOT,Bario Total,mg/L
+BENCENO,Benceno,mg/L
+BR_CLMET,Bromoclorometano,mg/L
+BROMOMETANO,Bromometano,mg/L
+"CIS_1,2_DICLETEN","Cis-1,2-Dicloroetileno",mg/L
+CL_BENC,Clorobenceno,mg/L
+CL_METILENO,Cloruro de Metileno,mg/L
+CLOROMETANO,Clorometano,mg/L
+CLORURO_DE_VINILO,Cloruro de Vinilo,mg/L
+CLORUROS_TOT,Cloruros Totales,mg/L
+ENTEROC_FEC,Enterococos Fecales,NMP/100 mL
+ESTIRENO,Estireno,mg/L
+ETILBENCENO,Etilbenceno,mg/L
+FE_TOT,Fierro Total,mg/L
+FLUORUROS_TOT,Fluoruros Totales,mg/L
+K_TOT,Potasio Total,mg/L
+MAT_FLOTANTE,MATERIA FLOTANTE,AUSENTE/PRESENTE
+METILTERBUTILETER_MTBE_,Metilterbutiléter (MTBE),mg/L
+MN_TOT,Manganeso Total,mg/L
+NA_TOT,Sodio Total,mg/L
+SAAM,Sustancias Activas al Azul de Metileno,mg/L
+SB_TOT,Antimonio Total,mg/L
+SIO2,Silica Total (SiO2),mg/L
+SO4_TOT,Sulfatos Totales,mg/L
+SOLID_SED,Sólidos Sedimentables,mL/L
+SST,Sólidos Suspendidos Totales,mg/L
+SULFUROS_TOT,Sulfuros (H2S),mg/L
+TALIO,Talio Total,mg/L
+TETRACL_CARB,Tetracloruro de Carbono,mg/L
+TETRACLOROETILENO_,Tetracloroeteno (Tetracloroetileno),mg/L
+TOLUENO,Tolueno,mg/L
+"TRANS_1,2_DICLOROETILENO","Trans-1,2-Dicloroetileno",mg/L
+TRICLOROETILENO,Tricloroetileno,mg/L
+TRICLOROFLUOROMETANO,Triclorofluorometano,mg/L
+TURBIEDAD,Turbiedad,UNT
+AS_TOT,Arsénico Total,mg/L
+CD_TOT,Cadmio Total,mg/L
+CR_TOT,Cromo Total,mg/L
+HG_TOT,Mercurio Total,mg/L
+NI_TOT,Níquel Total,mg/L
+PB_TOT,Plomo Total,mg/L
+CN_TOT,Cianuros Totales,mg/L
+CU_TOT,Cobre Total,mg/L
+ZN_TOT,Zinc Total,mg/L
+POT_REDOX_CAMPO,Potencial REDOX,mV
+POT_REDOX_CAMPO_FON,Potencial REDOX fondo,mV
+POT_REDOX_CAMPO_MED,Potencial REDOX media,mV
+POT_REDOX_CAMPO_SUP,Potencial REDOX superficie,mV
+"1,2_DICLBENC","1,2-Diclorobenceno",mg/L
+"1,3_DICLBEN","1,3-Diclorobenceno",mg/L
+"1,4_DICLBEN","1,4-Diclorobenceno",mg/L
+DICLOROBENCENOS,Diclorobencenos (Mezcla de Isomeros),mg/L
+BR_DICLMET,Bromodiclorometano,mg/L
+BROMOF,Bromoformo,mg/L
+CLOROFORMO,Cloroformo,mg/L
+DIBR_CLMET,Dibromoclorometano,mg/L
+THMs,Trihalometanos Totales,mg/L
+"M,P_XILENO","m,p-Xilenos",mg/L
+O_XILENO,o-Xileno,mg/L
+XILEN_ISOMEROS,Mezcla de Isómeros de Xilenos,mg/L
+CA_TOT,Calcio Total,mg/L
+MG_TOT,Magnesio Total,mg/L
+DUR_TOT,Dureza Total,mg CaCO3/L
+TEMP_AMB,Temperatura ambiente,°C
+TEMP_AGUA,Temperatura agua,°C
+TEMP_AGUA_SUP,Temperatura agua superficie,°C
+TEMP_AGUA_MED,Temperatura agua media,°C
+TEMP_AGUA_FON,Temperatura agua fondo,°C
+TEMP_AGUA_0.5,Temperatura Prof. 0.5 m.,°C
+TEMP_AGUA_1,Temperatura Prof. 1 m.,°C
+TEMP_AGUA_2,Temperatura Prof. 2 m.,°C
+TEMP_AGUA_3,Temperatura Prof. 3 m.,°C
+TEMP_AGUA_4,Temperatura Prof. 4 m.,°C
+TEMP_AGUA_5,Temperatura Prof. 5 m.,°C
+TEMP_AGUA_6,Temperatura Prof. 6 m.,°C
+TEMP_AGUA_7,Temperatura Prof. 7 m.,°C
+TEMP_AGUA_8,Temperatura Prof. 8 m.,°C
+TEMP_AGUA_9,Temperatura Prof. 9 m.,°C
+TEMP_AGUA_10,Temperatura Prof. 10 m.,°C
+TEMP_AGUA_11,Temperatura Prof. 11 m.,°C
+TEMP_AGUA_12,Temperatura Prof. 12 m.,°C
+TEMP_AGUA_13,Temperatura Prof. 13 m.,°C
+TEMP_AGUA_14,Temperatura Prof. 14 m.,°C
+TEMP_AGUA_15,Temperatura Prof. 15 m.,°C
+TEMP_AGUA_16,Temperatura Prof. 16 m.,°C
+TEMP_AGUA_17,Temperatura Prof. 17 m.,°C
+TEMP_AGUA_18,Temperatura Prof. 18 m.,°C
+TEMP_AGUA_19,Temperatura Prof. 19 m.,°C
+TEMP_AGUA_20,Temperatura Prof. 20 m.,°C
+TEMP_AGUA_21,Temperatura Prof. 21 m.,°C
+TEMP_AGUA_22,Temperatura Prof. 22 m.,°C
+TEMP_AGUA_23,Temperatura Prof. 23 m.,°C
+TEMP_AGUA_24,Temperatura Prof. 24 m.,°C
+TEMP_AGUA_25,Temperatura Prof. 25 m.,°C
+TEMP_AGUA_26,Temperatura Prof. 26 m.,°C
+TEMP_AGUA_27,Temperatura Prof. 27 m.,°C
+TEMP_AGUA_28,Temperatura Prof. 28 m.,°C
+TEMP_AGUA_29,Temperatura Prof. 29 m.,°C
+PROFUNDIDAD,Profundidad,m
+CAUDAL,Caudal,L/s
+CLORUROS_SOL,Cloruros Solubles,mg/L
+FLUORUROS_SOL,Fluoruros Solubles,mg/L
+SO4_SOL,Sulfatos Solubles,mg/L
+AS_SOL,Arsénico Soluble,mg/L
+CD_SOL,Cadmio Soluble,mg/L
+CR_SOL,Cromo Soluble,mg/L
+FE_SOL,Fierro Soluble,mg/L
+MN_SOL,Manganeso Soluble,mg/L
+HG_SOL,Mercurio Soluble,mg/L
+PB_SOL,Plomo Soluble,mg/L
+ZN_SOL,Zinc Soluble,mg/L
+AL_SOL,Aluminio Soluble,mg/L
+CU_SOL,Cobre Soluble,mg/L
+TALIO_SOL,Talio Soluble,mg/L
+NI_SOL,Niquel Soluble,mg/L
+CA_SOL,Calcio Soluble,mg/L
+MG_SOL,Magnesio Soluble,mg/L
+K_SOL,Potasio Soluble,mg/L
+NA_SOL,Sodio Soluble,mg/L
+SULFUROS_SOL,Sulfuros Solubles,mg/L
+BA_SOL,Bario Soluble,mg/L
+SB_SOL,Antimonio Soluble,mg/L
+ST,Sólidos Totales,mg/L
