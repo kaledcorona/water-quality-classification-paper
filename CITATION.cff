@@ -1,0 +1,70 @@
+cff-version: 1.2.0
+message: >-
+  If you use this code or data, please cite the article
+  listed under preferred-citation.
+type: software
+title: "Water Quality Classification via Cost-Efficient Machine Learning: A Case Study in Nuevo León (code and data)"
+abstract: >-
+  Code, processed data, and figures to reproduce the machine learning
+  analysis that classifies Water Quality Index (WQI) categories from
+  REMANECA (CONAGUA) monitoring data in Nuevo León, Mexico.
+authors:
+  - family-names: Corona-Romero
+    given-names: Kaled
+    orcid: "https://orcid.org/0009-0007-5550-722X"
+    affiliation: "School of Engineering and Sciences, Tecnologico de Monterrey"
+repository-code: "https://github.com/kaledcorona/water-quality-classification-paper"
+license: MIT
+date-released: 2025-09-06
+keywords:
+  - water quality index
+  - water quality assessment
+  - machine learning
+  - environmental data science
+  - REMANECA
+  - Mexico
+preferred-citation:
+  type: conference-paper
+  title: "Water Quality Classification via Cost-Efficient Machine Learning: A Case Study in Nuevo León"
+  authors:
+    - family-names: Corona-Romero
+      given-names: Kaled
+      orcid: "https://orcid.org/0009-0007-5550-722X"
+      affiliation: "School of Engineering and Sciences, Tecnologico de Monterrey"
+    - family-names: Fumagal-González
+      given-names: Gerardo
+      orcid: "https://orcid.org/0009-0008-2041-8056"
+      affiliation: "School of Engineering and Sciences, Tecnologico de Monterrey"
+    - family-names: Garcia-Ceja
+      given-names: Enrique
+      orcid: "https://orcid.org/0000-0001-6864-8557"
+      affiliation: "School of Engineering and Sciences, Tecnologico de Monterrey"
+    - family-names: González-Mendoza
+      given-names: Miguel
+      orcid: "https://orcid.org/0000-0001-6451-9109"
+      affiliation: "School of Engineering and Sciences, Tecnologico de Monterrey"
+  editors:
+    - family-names: Martínez-Villaseñor
+      given-names: Lourdes
+    - family-names: Vázquez
+      given-names: Roberto A.
+    - family-names: Ochoa-Ruiz
+      given-names: Gilberto
+  collection-title: "Advances in Soft Computing. MICAI 2025, Proceedings, Part I"
+  collection-type: proceedings
+  conference:
+    name: "24th Mexican International Conference on Artificial Intelligence (MICAI 2025)"
+    city: Guanajuato
+    country: MX
+    date-start: 2025-11-03
+    date-end: 2025-11-03
+  publisher:
+    name: Springer Nature Switzerland
+    city: Cham
+  volume: 16221
+  start: 80
+  end: 90
+  year: 2026
+  doi: "10.1007/978-3-032-09037-9_7"
+  url: "https://doi.org/10.1007/978-3-032-09037-9_7"
+  isbn: "978-3-032-09037-9"

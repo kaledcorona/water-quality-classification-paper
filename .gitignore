@@ -43,3 +43,6 @@ htmlcov/
 
 # data & results
 
+# Private documents (legal forms, LaTeX sources)
+docs/legal/
+docs/tex/

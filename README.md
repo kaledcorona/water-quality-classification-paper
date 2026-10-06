@@ -1,6 +1,6 @@
 # Water Quality Classification via Cost-Efficient Machine Learning: A Case Study in Nuevo León
 
-This repository contains supplementary materials (code, data, results) for the article published in [LNAI Springer](https://link.springer.com/series/1244). The project, referred to as "Water Quality ML in Nuevo León" in this repository, provides scripts and data to reproduce the machine learning analysis for water quality classification in Nuevo León.
+This repository contains supplementary materials (code, data, results) for the article published in *Advances in Soft Computing* (MICAI 2025, Springer LNAI): [doi:10.1007/978-3-032-09037-9_7](https://doi.org/10.1007/978-3-032-09037-9_7). The project, referred to as "Water Quality ML in Nuevo León" in this repository, provides scripts and data to reproduce the machine learning analysis for water quality classification in Nuevo León.
 
 ## Abstract 
 
@@ -16,6 +16,8 @@ Accurate water-quality assessment is vital, but laboratory costs limit monitorin
 
 
 
-## Citations
+## Citation
 
-Coming soon
+If you use this code or data, please cite the article. The BibTeX entry is in [`cite.bib`](cite.bib), and GitHub's "Cite this repository" button reads [`CITATION.cff`](CITATION.cff).
+
+> Corona-Romero, K., Fumagal-González, G., Garcia-Ceja, E., González-Mendoza, M. (2026). Water Quality Classification via Cost-Efficient Machine Learning: A Case Study in Nuevo León. In: *Advances in Soft Computing. MICAI 2025*. Lecture Notes in Computer Science, vol. 16221, pp. 80–90. Springer, Cham. https://doi.org/10.1007/978-3-032-09037-9_7
